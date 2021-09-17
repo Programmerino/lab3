@@ -1,3 +1,6 @@
-Team Members:
+Project Team Members:
+James Boynton
+Davis Davalos-DeLosh
+Aleksey Huhua
 Nolan Ales
-# lab3 asdfjkalsjfdlkasjf lab 3333333
+# lab3 asdfjkalsjfdlkasjf
