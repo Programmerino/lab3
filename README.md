@@ -4,3 +4,4 @@ James Boynton
 Davis Davalos-DeLosh
 Aleksey Huhua
 #### James Vogenthaler
+Nolan Ales
